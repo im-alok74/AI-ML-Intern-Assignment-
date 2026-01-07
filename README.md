@@ -500,6 +500,8 @@ For questions or issues, please contact the development team or open an issue in
 ---
 
 **Built with precision for TalentScout** | Powered by Google Gemini AI | Developed with Streamlit
-#   A I - M L - I n t e r n - A s s i g n m e n t -  
- #   A I - M L - I n t e r n - A s s i g n m e n t -  
+#   A I - M L - I n t e r n - A s s i g n m e n t - 
+ 
+ #   A I - M L - I n t e r n - A s s i g n m e n t - 
+ 
  
